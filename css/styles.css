@@ -1,0 +1,23 @@
+body {
+  background-color: lightslategrey;
+}
+
+h1 {
+  color: darkgray;
+  font-family: sans-serif;
+  text-shadow: 2px 2px red;
+}
+
+h3 {
+  color: #66BFBF;
+  font-family: sans-serif;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: darkred;
+  height: 0px;
+  width: 10%;
+  border-width: 5px;
+}
+
